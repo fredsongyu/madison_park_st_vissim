@@ -1,0 +1,12 @@
+== ASC3 Debug file Start =============================
+
+ControllerID:8, VissimSocketID:52655, ShowWindowID:1
+
+*** Calling create on the vissim socket ***
+*** create worked calling bind on the vissim socket ***
+*** bind worked calling setAsyncEvents on the vissim socket ***
+*** setAsyncEvents worked calling connect on the vissim socket ***
+*** connect worked on the vissim socket ***
+Time set to => 16:15:00.1 20201014
+Time 16:15:0.1  10//14//2020
+== ASC3 Debug file End =============================
